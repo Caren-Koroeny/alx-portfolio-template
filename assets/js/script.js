@@ -1,11 +1,11 @@
 const data = {
   title1: 'Tonic',
-  badges: ['Canopy', 'images/counter-images.png', 'Back End Dev', 'images/counter-images.png', 2015],
-  backgroundImage1: ['images/ModalPopup.svg', 'images/mobile-snapshot.png'],
+  badges: ['Canopy', './images/counter-images.png', 'Back End Dev', 'images/counter-images.png', 2015],
+  backgroundImage1: ['./images/ModalPopup.svg', './images/mobile-snapshot.png'],
   description: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it 1960s with the releaLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it 1960s with the releorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum han printer took a galley of type and scrambled it 1960s with the releawn printer took a galley of type and scrambled it 1960s with the releaLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it 1960s with the relea',
   icons: ['html', 'CSS', 'Bootstrap', 'Github', 'Rubby', 'JavaScript'],
   mobileicons: ['html', 'css', 'javascript'],
-  links: ['See live', 'images/seelive.png', 'Github', 'images/github.png'],
+  links: ['See live', './images/seelive.png', 'Github', 'images/github.png'],
 };
 
 const badgesContainer = document.querySelector('.card1-badges');
@@ -62,11 +62,11 @@ data.mobileicons.forEach((mobitem) => {
 // Modal card one section
 const desktopCardData = {
   desktopIimages: [
-    '/images/desktop-image1.png', '/images/desktop-image2.png',
-    '/images/desktop-image3.png', '/images/desktop-image4.png',
+    './images/desktop-image1.png', './images/desktop-image2.png',
+    './images/desktop-image3.png', './images/desktop-image4.png',
   ],
-  counterImg: '/images/counter-images.png',
-  mobileImages: ['/images/image-1.png', '/images/image-3.png', '/images/image-4.png'],
+  counterImg: './images/counter-images.png',
+  mobileImages: ['./images/image-1.png', '/images/image-3.png', '/images/image-4.png'],
   cardTitle: ['Tonic', 'Multi-Post Stories', 'Facebook 360', 'Uber Navigation'],
   badges1: ['Canopy', 'Back&nbspEnd&nbspDev', 2015],
   badges2: ['FACEBOOK', 'Full&nbspStack&nbspDev', 2015],

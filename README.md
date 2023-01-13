@@ -1,112 +1,146 @@
 <a name="readme-top"></a>
 
+<!-- TABLE OF CONTENTS -->
+
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
-    - [Key Features](#key-features)
   - [🚀 Live Demo](#live-demo)
+  - [🚀 Loom Walkthrough](#loom-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
   - [Install](#install)
   - [Usage](#usage)
-  - [Run tests](#run-tests)
-  - [Deployment](#triangular_flag_on_post-deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
-- [⭐️ Show your support](#support)
-- [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ](#faq)
 - [📝 License](#license)
 
-# 📖 Portfolio <a name="about-project"></a>
+<!-- PROJECT DESCRIPTION -->
 
-** This is an intro part of Portfolio set up and Mobile first.
+# 📖 Microverse Portfolio Project <a name="about-project"></a>
+
+> Describe of project.
+
+**Hello Microverse** is the second project in week 1 for day 3. It is a portfolio project.
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
+> Description of the tech stacks used
+
 <details>
-  <summary>Markup-Languages</summary>
+  <summary>Client</summary>
   <ul>
-    <li><a href="https://reactjs.org/">HTML</a></li>
+    <li><a href="https://html.com/">Html</a></li>
+    <li><a href="https://www.w3.org/Style/CSS/Overview.en.html">CSS</a></li>
+    <li><a href="https://www.javascript.com/">JavaScript</a></li>
   </ul>
 </details>
 
-<details>
-  <summary>Styling</summary>
-  <ul>
-    <li><a href="#">CSS</a></li>
-  </ul>
-</details>
-
-</details>
-
+<!-- Features -->
 
 ### Key Features <a name="key-features"></a>
 
+> Features of the application.
 
-- **HTML**
-- **CSS**
-- **Linters**
+- **The first two sections of the potfolio [nav and hero]**
+- **The middle section of the portfolio [my Projects and About me]**
+- **The footer section for contact form**
+- **Desktop view**
+- **Transition and Animation**
+- **Mobile Menu**
+- **Modal Pop Up**
+- **Form Validation using Javascript**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LIVE DEMO -->
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo](https://caren-koroeny.github.io/portfolio-template/)
+> Link to deployed project.
 
-## Loom Recording
- 
- -[Loom](https://www.loom.com/share/6cfcbdf5fc2c45aabca4bec89146a15c)
+- [Live Demo Link]()
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- Loom Walkthrough -->
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- GETTING STARTED -->
+
 ## 💻 Getting Started <a name="getting-started"></a>
+
+> Describe how a new developer could make use of your project.
 
 To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
 In order to run this project you need:
-- [Webhint](https://webhint.io/)
-- [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/).
-- [Stylelint](https://stylelint.io/)
 
+1. npm 
+use the following link to setup npm if you dont have it already installed on your computer 
+<p align="left">(<a href="https://docs.npmjs.com/downloading-and-installing-node-js-and-npm">install npm</a>)</p>
 
 ### Setup
 
-Clone this repository to your desired folder: [git clone](https://github.com/Caren-Koroeny/portfolio-template)
+Clone this repository to your desired folder using the above command:
+
+```sh
+  cd my-folder
+  git clone 
+```
+
+### Install
+
+Install this project with:
+
+```sh
+  cd my-project
+  npm install -y
+```
 
 ### Usage
 
-Download or fork the repo Open the [index.html](https://github.com/Caren-Koroeny/portfolio-template/blob/two-sections/index.html) file with your browser of choice.
+To run the project:
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## 👥 Author <a name="authors"></a>
-
-
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/Caren-Koroeny)
-- Twitter: [@twitterhandle](https://twitter.com/home)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/feed/)
+Open the index.html file using a web browser
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- AUTHORS -->
 
-## 🔭 Future Features <a name="future-features"></a>
+## 👥 Authors <a name="authors"></a>
 
-- [ ] **JS**
+> Mention all of the collaborators of this project.
+
+👤 **carensiya**
+
+- GitHub: [@carensiya](https://github.com)
+- Twitter: [@carensiya](https://twitter.com/l)
+- LinkedIn: [@carensiya](https://www.linkedin.com/in/)
+
+👤 **Brian Kipngeno**
+- GitHub: [@Brian](https://github.com)
+- Twitter: [@Brian](https://twitter.com)
+
+👤 **Ifyanyit**
+- GitHub: [@Ifyanyit](https://github.com)
+- Twitter: [@Ifyanyit](https://twitter.com)
+- LinkedIn: [@Ifyanyit](https://www.linkedin.com/in)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+
+<!-- CONTRIBUTING -->
 
 ## 🤝 Contributing <a name="contributing"></a>
 
@@ -116,28 +150,11 @@ Feel free to check the [issues page](../../issues/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- SUPPORT -->
 
-## ⭐️ Show your support <a name="support"></a>
-
-> Write a message to encourage readers to support your project
-
-If you like this project click a ⭐️ 
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- ACKNOWLEDGEMENTS -->
-
-## 🙏 Acknowledgments <a name="acknowledgements"></a>
-
-> Give credit to everyone who inspired your codebase.
-
-I would like to thank ALX TEAM
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://github.com/Caren-Koroeny/Hello-world/blob/master/LICENSE) licensed.
+This project is [MIT](./LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
